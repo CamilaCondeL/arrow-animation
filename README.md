@@ -1,2 +1,2 @@
 # arrow-animation
-Css arro animation when hover
+Css arrow animation when hover
